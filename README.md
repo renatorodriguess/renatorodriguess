@@ -10,15 +10,12 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=renatorodriguess&bg_color=0d1117&color=5bd1f4&line=5bd1f4&point=1c93f4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=renatorodrigues&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
 <div align="center"> 
 <a href="https://renatordev.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portifolio-222F43?style=for-the-badge&logo=aboutdotme&logoColor=white" target="_blank"></a>
 <a href = "mailto:renato072002@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-ff1502?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/renato-rodrigues-2240251b5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
  </div>
+ <br/>
  
  ### Main skills:
 <div style="display: inline_block height="90px">

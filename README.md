@@ -1,9 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5BD1F4&height=120&section=header"/>
 
 ## Sobre mim
-<h4 align="left"> 
+<img src="https://assets-global.website-files.com/6213bb84f2aee7f53db76c33/65775a81adcec5ff89a4e192_Functional%20programming%20-%20what%20it%20is%2C%20why%20use%20it%2C%20and%20a%20roadmap%20for%20your%20startup%20to%20adopt%20it.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+<p align="left"> 
   Olá, me chamo Renato e sou um Desenvolvedor Front-End em fase de aprendizado. Meu objetivo é me tornar um desenvolvedor completo, capaz de criar aplicações web do início ao fim. Sou apaixonado por jogos e tecnologia, e busco oportunidades de aprendizado, crescimento e inovação na área de desenvolvimento web.
-</h4>
+</p>
 
  ### Main skills:
 <div style="display: inline_block height="90px">

@@ -1,9 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5BD1F4&height=120&section=header"/>
 
 ## Sobre mim
-<p align="left"> 
+<h3 align="left"> 
   Olá, me chamo Renato e sou um Desenvolvedor Front-End em fase de aprendizado. Meu objetivo é me tornar um desenvolvedor completo, capaz de criar aplicações web do início ao fim. Sou apaixonado por jogos e tecnologia, e busco oportunidades de aprendizado, crescimento e inovação na área de desenvolvimento web.
-</p>
+</h3>
 
  ### Main skills:
 <div style="display: inline_block height="90px">

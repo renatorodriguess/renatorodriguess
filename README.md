@@ -34,7 +34,7 @@
   <div>
     <a href = "mailto:renato072002@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/renato-rodrigues-2240251b5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="https://renatordev.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portifolio-222F43?style=for-the-badge&logo=aboutdotme&logoColor=white" target="_blank"></a>
+    <a href="https://devrenato.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portifolio-222F43?style=for-the-badge&logo=aboutdotme&logoColor=white" target="_blank"></a>
   </div>
 
 <div align="center">  

@@ -13,7 +13,7 @@
   <img align="center" height="30" width="40" alt="typescript-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
   <img align="center" height="30" width="40" alt="react-icon"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" height="30" width="40" alt="next-icon"  src="https://devicons.railway.app/i/nextjs-light.svg" />
-  <img align="center" height="30" width="40" alt="tailwind-icon"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+  <img align="center" height="30" width="40" alt="tailwind-icon"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
   <img align="center" height="30" width="40" alt="css-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   
@@ -23,7 +23,7 @@
 ### Studying at the moment:
 <div style="display: inline_block">
   <img align="center" height="30" width="40" alt="typescript-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-  <img align="center" height="30" width="40" alt="node-icon"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
+  <img align="center" height="30" width="40" alt="node-icon"  src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" />
   <img align="center" height="30" width="40" alt="jest-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
   <img align="center" height="30" width="40" alt="react-icon"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   

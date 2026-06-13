@@ -21,7 +21,7 @@
 ```javascript
 const connor = {
   source: [Jacareí, SP],
-  code: [Python,Java, Data, SQL]
+  code: [Python, Java, Data, SQL]
 }
 ```
 ## About Me! 👋

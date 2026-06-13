@@ -1,18 +1,17 @@
 <h2> Olá, Sou Renato! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="imagens/renato_study.jpg" width="200" style="position:relative; top:-20px;">
+<img align='right' src="/imagens/renato_coding.png" alt="Renato Coding" width="200" style="position:relative; top:-20px;">
 <p><em>Analista de Dados!</a></br>
 
 </em></p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/renato-rodriguess/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/renato-rodriguess/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <a href="mailto:renato072002@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=renato072002@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Github&logo=github&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-</div>
+</p>
 
 
 ```javascript

@@ -19,7 +19,7 @@
 | Python | SQL | Airflow | SAP S/4HANA | Google Cloud | Power BI
 
 ```javascript
-const renanto = {
+const renato = {
   source: [Jacareí, SP],
   code: [Python, Airflow, Google Cloud, SQL, SAP 4HANA]
 }

@@ -1,6 +1,6 @@
 <h2> Hi, I'm Renato! <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnF6eTVlaHh4OXV3cDh0cXNqeGc0NjIxMDA4dndkYjM4cDNxN2E2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="50"></h2>
 <img align='right' src="/images/renato_coding.png" alt="Renato Coding" width="200" style="position:relative; top:-20px;">
-<p><em>Software Developer & Data Analyst!</a></br>
+<p><em>Data Engineer</a></br>
   
 </em></p>
 <p align="center">
@@ -16,7 +16,6 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 </p>
-| Python | SQL | Airflow | SAP S/4HANA | Google Cloud | Power BI
 
 ```javascript
 const renato = {

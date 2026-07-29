@@ -38,6 +38,5 @@ I'm a graduate in Systems Analysis and Development, currently building my career
 
 
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, feel free to reach out!</b> :)</em>
 
 ---

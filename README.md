@@ -16,12 +16,12 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 </p>
-
+| Python | SQL | Airflow | SAP S/4HANA | Google Cloud | Power BI
 
 ```javascript
-const connor = {
+const renanto = {
   source: [Jacareí, SP],
-  code: [Python, Java, Data, SQL]
+  code: [Python, Airflow, Google Cloud, SQL, SAP 4HANA]
 }
 ```
 ## About Me! 👋
@@ -29,11 +29,12 @@ const connor = {
 I'm a graduate in Systems Analysis and Development, currently building my career in the fields of Data and Automation.
 
 * 🎓 Graduated in Systems Analysis and Development from Anhanguera University.
-* 📊 Currently studying Data Engineering, ETL/ELT processes, and Databricks.
-* 🤖 Interested in process automation using RPA technologies.
-* 💻 Experienced in website development and web solutions.
-* 📚 Always learning and working on new projects to expand my technical skills.
-* 🚀 Seeking opportunities to grow professionally in the technology industry.
+* 📊 Junior Data Engineer focused on Data Engineering, ETL/ELT pipelines, and data automation.
+* 🐍 Working with Python, SQL, Power BI, and workflow orchestration tools such as Airflow and n8n.
+* ☁️ Exploring cloud technologies and modern data platforms, including Google Cloud and Databricks.
+* 🤖 Interested in process automation, data pipelines, and scalable data solutions.
+* 🚀 Passionate about continuous learning and building projects that expand my technical and problem-solving skills.
+
 
 
 

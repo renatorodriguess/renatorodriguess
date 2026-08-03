@@ -17,11 +17,17 @@
 </a>
 </p>
 
-```javascript
-const renato = {
-  source: [Jacareí, SP],
-  code: [Python, Airflow, Google Cloud, SQL, SAP 4HANA]
+```python
+me = {
+    "name": "Renato",
+    "role": "Data Engineer",
+    "location": "Jacareí, SP 🇧🇷",
+    "code": ["Python", "SQL", "Airflow", "Google Cloud", "SAP S/4HANA"],
+    "tools": ["Power BI", "Docker", "Git", "Power Automate", "SharePoint"],
+    "currently_learning": ["Databricks", "ETL/ELT", "Data Engineering"]
 }
+
+print("Turning data into insights 🚀")
 ```
 ## About Me! 👋
 

@@ -29,10 +29,12 @@ I'm a graduate in Systems Analysis and Development, currently building my career
 
 * 🎓 Graduated in Systems Analysis and Development from Anhanguera University.
 * 📊 Junior Data Engineer focused on Data Engineering, ETL/ELT pipelines, and data automation.
-* 🐍 Working with Python, SQL, Power BI, and workflow orchestration tools such as Airflow and n8n.
+* 🐍 Working with Python, SQL, Power BI, Airflow, Docker, and workflow automation tools such as n8n.
 * ☁️ Exploring cloud technologies and modern data platforms, including Google Cloud and Databricks.
-* 🤖 Interested in process automation, data pipelines, and scalable data solutions.
-* 🚀 Passionate about continuous learning and building projects that expand my technical and problem-solving skills.
+* 🤖 Interested in building scalable data solutions, process automation, and cloud-based data workflows.
+* 📚 Continuously learning and improving my skills in data engineering, software development, and modern data technologies.
+* 🚀 Open to opportunities where I can contribute, learn, and grow as a Data Engineer.
+
 
 
 
